@@ -225,17 +225,7 @@
 	   .southInputPanel{
 			padding:.5vmin;
 	  }
-	  /*
-	  input[type=checkbox]
-{
-  /* Double-sized Checkboxes */
-  -ms-transform: scale(.5); /* IE */
-  -moz-transform: scale(.5); /* FF */
-  -webkit-transform: scale(.5); /* Safari and Chrome */
-  -o-transform: scale(1); /* Opera */
-  padding: 10px;
-}
-	*/	
+	 
     </ui:style>
      <g:DockLayoutPanel unit="PCT">
      

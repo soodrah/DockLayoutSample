@@ -48,7 +48,7 @@ import com.google.gwt.user.client.Timer;
 import com.google.gwt.user.client.Window;
 import com.strategyPerspective.client.eventHandlers.TippingSeriesPointClickEventHandler;
 
-import javafx.scene.paint.Color;
+
 
 /**
  * @author rahulsood
